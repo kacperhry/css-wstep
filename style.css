@@ -1,0 +1,9 @@
+*{
+    color: red;
+}
+li>a{
+    color: blue
+}
+li{
+    color :lawngreen
+}
