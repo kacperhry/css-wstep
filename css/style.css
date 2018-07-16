@@ -1,3 +1,14 @@
 body {
     background-color: pink;
 }
+a {
+    color: gray;
+    transition: color 2s ease-in 1s;
+    transition: font-size 2s ease-in 1s;
+    font-size: 77px;
+}
+
+a:hover {
+    color: orange;
+    font-size: 200px;
+}
